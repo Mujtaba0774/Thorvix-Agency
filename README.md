@@ -1,5 +1,7 @@
 # THORVIX — Website
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Canvas](https://img.shields.io/badge/Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
 Marketing website for **THORVIX**, a Lahore-based AI and engineering agency that sells AI agents, automation, dedicated development teams and staff augmentation. It is a single-page React app: one long landing page with anchor navigation, animated effects and a "book a strategy call" form.
 
 ![Home page](https://mujtabaasif.vercel.app/assets/projects-screenshots/thorvix/home.webp)
